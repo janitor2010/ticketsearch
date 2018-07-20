@@ -1,0 +1,28 @@
+name: dslabs
+channels:
+- anaconda
+- defaults
+dependencies:
+- beautifulsoup4=4.6.0=py36hd4cc5e8_1
+- python=3.6.6=hea74fb7_0
+- vc=14.1=h0510ff6_3
+- vs2015_runtime=15.5.2=3
+- certifi=2016.2.28=py36_0
+- mkl=2017.0.3=0
+- numpy=1.13.1=py36_0
+- pandas=0.20.3=py36_0
+- pip=9.0.1=py36_1
+- pymongo=3.4.0=py36_0
+- python-dateutil=2.6.1=py36_0
+- pytz=2017.2=py36_0
+- queuelib=1.4.2=py36_0
+- requests=2.14.2=py36_0
+- scipy=0.19.1=np113py36_0
+- setuptools=36.4.0=py36_1
+- six=1.10.0=py36_0
+- wheel=0.29.0=py36_0
+- wincertstore=0.2=py36_0
+- pip:
+  - fake-useragent==0.1.10
+prefix: C:\Users\janitor2010\Miniconda3\envs\dslabs
+
