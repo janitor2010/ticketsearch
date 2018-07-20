@@ -306,5 +306,5 @@ if not os.path.exists(directory):
 
 # hashtags for filtering results
 # filterHashes = ['ticket','билет']  # way 1
-# filterHashes = ['world','fifa','чм','чемпионат','мир']  # way 2
+filterHashes = ['world','fifa','чм','чемпионат','мир']  # way 2
 beginSearch(mainSearchHashtag, filterHashes)
